@@ -1,4 +1,3 @@
-
 <h1 id="huskylens-python-api">HUSKYLENS Python API</h1>
 <pre><code>Author   : Robert (robert@dfrobot.com) 
 Version  : 0.1
@@ -125,7 +124,6 @@ Github   : **GITHUB LINK**
    		ID =&gt; (Integer) Objects ID (if not learned, ID is 0)
    		learned =&gt; (Boolean) True  if the object is learned
    		type =&gt; "BLOCK"
-
    class  Arrow:
    	Members:
    		xTail =&gt; (Integer) x coordinate of the tail of the arrow
