@@ -20,7 +20,6 @@ Github   : <a href="/huskylib.py">Github</a>
 <li>Please refer to our full guide here: <em><strong>INSERT RASPBERRY PI GUIDE</strong></em></li>
 </ul>
 </blockquote>
-<hr>
 <h4 id="guide-format-information">Guide Format Information</h4>
 <blockquote>
 <dl>
@@ -46,7 +45,7 @@ Github   : <a href="/huskylib.py">Github</a>
 </dd>
 </dl>
 </blockquote>
-<hr>
+<br>
 <h2 id="general-functions">General Functions</h2>
 <dl>
 <dt>HuskyLensLibrary(“COM_PROTOCOL”, “COM_PORT”,  channel,  address)</dt>
