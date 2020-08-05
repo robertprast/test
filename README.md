@@ -2,7 +2,7 @@
 <pre><code>Author   : Robert (robert@dfrobot.com) 
 Version  : 0.1
 Date     : 08/04/2020
-Github   : **GITHUB LINK**
+Github   : <a href="/huskylib.py">Github</a>
 </code></pre>
 <hr>
 <h3 id="quick-start">Quick Start</h3>
@@ -10,7 +10,7 @@ Github   : **GITHUB LINK**
 <p>USB Connection (Mac/Windows/Linux -&gt; Huskylens)</p>
 <ul>
 <li><code>pip3 install pyserial pypng</code></li>
-<li>Place the <a href="http://huskylib.py">huskylib.py</a> file within your projects folder</li>
+<li>Place the <a href="/huskylib.py">huskylib.py</a> file within your projects folder</li>
 <li><code>from huskylib import HuskyLensLibrary</code></li>
 <li><code>hl = HuskyLensLibrary("SERIAL", "/dev/ttyUSB0")</code></li>
 <li><code>print(h1.command_request_knock()</code></li>
